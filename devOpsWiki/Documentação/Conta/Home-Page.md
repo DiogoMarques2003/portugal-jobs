@@ -19,18 +19,18 @@ Para a Home Page o utilizador será cumprimentado dependendo da hora do dia
 
 - HomePage:
 
-![HomePage.jpg](/.attachments/HomePage-3415916c-7519-4233-ab6e-4fbed7397dd8.jpg)
+![HomePage.jpg](../../.attachments/HomePage-3415916c-7519-4233-ab6e-4fbed7397dd8.jpg)
 
 - Após clicar no botão de logout:
 
-![logout.jpg](/.attachments/logout-ab09cdde-2d79-41a0-a1f4-867cc1c7ded3.jpg)
+![logout.jpg](../../.attachments/logout-ab09cdde-2d79-41a0-a1f4-867cc1c7ded3.jpg)
 
 e será retornado para a pagina de login/register
 
 - Tela com um user com candidaturas:
 
-![b6629628-8b48-49e9-a86b-8b18478b97a9.jpg](/.attachments/b6629628-8b48-49e9-a86b-8b18478b97a9-8b70ba56-750e-4cf2-8ee3-11bcb0cc8bca.jpg)
+![b6629628-8b48-49e9-a86b-8b18478b97a9.jpg](../../.attachments/b6629628-8b48-49e9-a86b-8b18478b97a9-8b70ba56-750e-4cf2-8ee3-11bcb0cc8bca.jpg)
 
 - Tela com um user sem candidaturas:
 
-![6408f9e0-2e4a-48fe-bcf0-d30cc65b4b4f.jpg](/.attachments/6408f9e0-2e4a-48fe-bcf0-d30cc65b4b4f-7c519f72-cdbb-44bc-8901-88e8a8596a8c.jpg)
+![6408f9e0-2e4a-48fe-bcf0-d30cc65b4b4f.jpg](../../.attachments/6408f9e0-2e4a-48fe-bcf0-d30cc65b4b4f-7c519f72-cdbb-44bc-8901-88e8a8596a8c.jpg)

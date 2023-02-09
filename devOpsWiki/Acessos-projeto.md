@@ -16,6 +16,6 @@ Passos para adicionar o servidor redis (necessário):
 
 1. Aceder ao serviço por http://ip:8081
 2. Selecionar estás opção:
-![image.png](/.attachments/image-f72f573b-9d25-4f5a-a87d-f30239011a7d.png)
+![image.png](.attachments/image-f72f573b-9d25-4f5a-a87d-f30239011a7d.png)
 3. Colocar a seguinte configuração e dar connect:
-![image.png](/.attachments/image-6cf0655f-4eed-4ffc-afef-1d78a90d7531.png)
+![image.png](.attachments/image-6cf0655f-4eed-4ffc-afef-1d78a90d7531.png)

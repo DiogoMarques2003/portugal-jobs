@@ -11,5 +11,5 @@ O design UI/UX foi feito no Figma
 
 tela de Anuncios:
 
-![11111111.PNG](/.attachments/11111111-751c5230-a60c-4ef4-b1ee-e19b2e38d062.PNG)
-![image.png](/.attachments/image-e8a28dbf-441a-4c7d-a330-b7231966d42c.png)
+![11111111.PNG](../../../.attachments/11111111-751c5230-a60c-4ef4-b1ee-e19b2e38d062.PNG)
+![image.png](../../../.attachments/image-e8a28dbf-441a-4c7d-a330-b7231966d42c.png)

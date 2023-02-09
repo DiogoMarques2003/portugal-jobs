@@ -3,7 +3,7 @@ No backend iremos usar uma arquitetura SOLID, que separa cada rota por um caso d
 Para geração de id iremos usar o UUID v4, pois dessa forma conseguimos ver se o id que o utilizador está a passar no request é um id valido.
 
 Para todos estarmos a usar o mesmo padrão de código devemos instalar as seguintes extensões no vscode:
-![image.png](/.attachments/image-236bb929-3e8b-4190-83c2-4956f32f961b.png)
+![image.png](.attachments/image-236bb929-3e8b-4190-83c2-4956f32f961b.png)
 
 Tipos de requests a ser usados:
 GET -> Obter dados

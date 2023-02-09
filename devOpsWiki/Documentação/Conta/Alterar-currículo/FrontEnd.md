@@ -2,4 +2,4 @@ Na tela de "Editar Currículo" o utilizador poderá atualizar/adicionar o seu cu
 
 O documento tem que ser um arquivo .pdf
 
-![Screenshot_20221205-095502_Expo Go.jpg](/.attachments/Screenshot_20221205-095502_Expo%20Go-231e5492-de39-4aba-a35f-ce7672bd2cab.jpg)
+![Screenshot_20221205-095502_Expo Go.jpg](../../../.attachments/Screenshot_20221205-095502_Expo%20Go-231e5492-de39-4aba-a35f-ce7672bd2cab.jpg)

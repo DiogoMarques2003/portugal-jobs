@@ -2,4 +2,4 @@ Na tela inicial podemos encontrar um logótipo e dois botões, um dos botões é
 
 O design UI/UX foi feito no FIGMA
 
-![image.png](/.attachments/image-fbe15202-bca1-42e5-9d50-fe96b728cda9.png)
+![image.png](../../.attachments/image-fbe15202-bca1-42e5-9d50-fe96b728cda9.png)

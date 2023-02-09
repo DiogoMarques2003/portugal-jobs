@@ -2,7 +2,7 @@ O nosso backend foi feito usando a linguagem de programação typescript, para b
 A estrutura do Backend vai ser monolitico, e vai usar a arquitetura SOLID.
 
 Estrutura de funcionamento do backend:
-![image.png](/.attachments/image-63248821-84c6-4806-ba70-529b80e0a63f.png)
+![image.png](../.attachments/image-63248821-84c6-4806-ba70-529b80e0a63f.png)
 
 A baixo explico as dependências que usamos e o porque de usar as mesmas:
 - **babel:** Usado para compilar o typescript para javascript e depois o executar em ambiente de produção;

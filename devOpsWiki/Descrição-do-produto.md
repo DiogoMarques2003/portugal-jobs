@@ -7,4 +7,4 @@ A empresa a publicar o anúncio deve ter parâmetros obrigatórios como o títul
 O trabalhador poderá filtrar os anúncios por localização, cargo do trabalho, tipo de trabalho. Caso se decida candidatar a um dos anúncios é so clicar em "Candidatar", e depois a empresa poderá atualizar o estado da candidatura para aceite, recusado ou em análise. 
 
 
-![image.png](/.attachments/image-436e6288-1b2d-49eb-88fd-21b6d0409315.png)
+![image.png](.attachments/image-436e6288-1b2d-49eb-88fd-21b6d0409315.png)
